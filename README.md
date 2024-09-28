@@ -1,2 +1,2 @@
-# HarmAug
-HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models
+# HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models
+
