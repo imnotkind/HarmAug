@@ -24,3 +24,9 @@ Then, download necessary files from [Google Drive](https://drive.google.com/driv
 ```
 mv kd_dataset@gemma_prompting_wildguard_100k_plus_wildguard_no_benign.json ./data
 ```
+
+
+Finally, you can start the knowledge distillation process.
+```
+bash script/kd.sh
+```
