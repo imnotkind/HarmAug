@@ -1,6 +1,6 @@
 # HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models
 
-[[Model link]](https://huggingface.co/AnonHB/HarmAug_Guard_Model_deberta_v3_large_finetuned) 
+[[Model link]](https://huggingface.co/AnonHB/HarmAug_Guard_Model_deberta_v3_large_finetuned)  
 [[Dataset link]](https://huggingface.co/AnonHB/HarmAug_Guard_Model_deberta_v3_large_finetuned)
 ![concept_figure](https://github.com/user-attachments/assets/3e61f7c6-e0c2-4107-bb4e-9b4d2c7ba961)
 
