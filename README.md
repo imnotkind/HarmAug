@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Then, download necessary files from [Google Drive](https://drive.google.com/drive/folders/1oLUMPauXYtEBP7rvbULXL4hHp9Ck_yqg?usp=drive_link) and put them into their appropriate folders.
 ```
-mv kd_dataset@gemma_prompting_wildguard_100k_plus_wildguard_no_benign.json ./data
+mv kd_dataset@harmaug.json ./data
 ```
 
 
