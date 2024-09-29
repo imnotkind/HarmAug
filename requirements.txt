@@ -1,0 +1,11 @@
+vllm==0.6.1post2
+editdistance
+scikit-learn
+typed-argument-parser
+wandb
+csv_logger
+accelerate
+peft
+gpustat
+fire
+sentence-transformers==3.0.1
