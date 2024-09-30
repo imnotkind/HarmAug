@@ -1,6 +1,6 @@
 for seed in 42 123 456; do
   (NAME="harmaug"; \
-   MODEL="deberta-v3-xsmall"; \
+   MODEL="deberta-v3-large"; \
   CUDA_VISIBLE_DEVICES=0 python main.py \
   --mode kd \
   --kd_file "./data/kd_dataset@${NAME}.json" \
