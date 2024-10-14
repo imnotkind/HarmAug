@@ -1,5 +1,11 @@
 # HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models
+This repository contains code for reproducing HarmAug introduced in
 
+**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**
+
+Seanie Lee*, Haebin Seong*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang (*: Equal contribution)
+
+[[arXiv link]](https://arxiv.org/abs/2410.01524)
 [[Model link]](https://huggingface.co/AnonHB/HarmAug_Guard_Model_deberta_v3_large_finetuned)  
 [[Dataset link]](https://huggingface.co/datasets/AnonHB/HarmAug_generated_dataset)
 
@@ -7,6 +13,7 @@
 ![concept_figure](https://github.com/user-attachments/assets/3e61f7c6-e0c2-4107-bb4e-9b4d2c7ba961)
 
 ![overall_comparison_broken](https://github.com/user-attachments/assets/03cc0fa5-e9dc-4d78-a5b8-a2c122672fea)
+
 
 
 ## Reproduction Steps
@@ -33,4 +40,15 @@ mv kd_dataset@harmaug.json ./data
 Finally, you can start the knowledge distillation process.
 ```
 bash script/kd.sh
+```
+
+## Reference
+To cite our paper, please use this BibTex
+```bibtex
+@article{lee2024harmaug,
+  title={{HarmAug}: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models},
+  author={Lee, Seanie and Seong, Haebin and Lee, Dong Bok and Kang, Minki and Chen, Xiaoyin and Wagner, Dominik and Bengio, Yoshua and Lee, Juho and Hwang, Sung Ju},
+  journal={arXiv preprint arXiv:2410.01524},
+  year={2024}
+}
 ```
