@@ -6,7 +6,7 @@ This repository contains code for reproducing HarmAug introduced in
 Seanie Lee*, Haebin Seong*, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang (*: Equal contribution)
 
 [[arXiv link]](https://arxiv.org/abs/2410.01524)  
-[[Model link]](https://huggingface.co/AnonHB/HarmAug_Guard_Model_deberta_v3_large_finetuned)  
+[[Model link]](https://huggingface.co/hbseong/HarmAug-Guard)  
 [[Dataset link]](https://huggingface.co/datasets/AnonHB/HarmAug_generated_dataset)
 
 
